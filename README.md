@@ -1,2 +1,2 @@
-# Coding Problems
-Coding problems (mostly for USACO).
+# Coding problems
+Mostly for USACO.
